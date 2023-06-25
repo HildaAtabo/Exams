@@ -1,0 +1,49 @@
+
+@font-face {
+    font-family: 'Gilroy-medium';
+    src: url(font/Gilroy-Medium.ttf);
+}
+
+body{ font-family: 'Gilroy-medium';
+       }
+
+.C2{
+    text-align: center;
+}
+
+.b1{
+  background-color: rgba(0, 101, 254, 1);
+  color: white;
+  border: none;
+  text-align: center;
+  display: inline-block;
+   border-radius: 10px;
+   font-size: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+
+}
+
+
+.C3{
+    text-align: right;
+}
+
+.p1 {
+    text-align: center;
+}
+.p2 {
+    font-size: xx-large;
+}
+.uss{
+    color: blue;
+}
+.p3 {
+    font-size: small;
+}
+
+.uss1 {
+    color: blue;
+}
